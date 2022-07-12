@@ -30,7 +30,31 @@ const traffic = [
     new Car(road.getLaneCenter(0),-500,30,50,"DUMMY", 2),
     new Car(road.getLaneCenter(1),-500,30,50,"DUMMY", 2),
     new Car(road.getLaneCenter(1),-700,30,50,"DUMMY", 2),
-    new Car(road.getLaneCenter(2),-700,30,50,"DUMMY", 2)
+    new Car(road.getLaneCenter(2),-700,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(1),-900,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(0),-900,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(2),-1100,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(0),-1100,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(1),-1300,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(1),-1300,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(0),-1500,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(2),-1500,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(1),-1700,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(0),-1700,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(2),-1900,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(0),-1900,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(1),-2100,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(1),-2100,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(2),-2300,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(1),-2300,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(0),-2500,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(2),-2500,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(0),-2700,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(1),-2700,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(1),-2900,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(0),-2900,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(2),-3100,30,50,"DUMMY", 2),
+    new Car(road.getLaneCenter(2),-3100,30,50,"DUMMY", 2)
 ];
 
 // TODO: Math.floor(Math.random()*3) to populate traffic 
